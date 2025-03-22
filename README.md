@@ -5,5 +5,4 @@ NYC), collected by the Wadsworth Center Rabies Laboratory since May 2007. The da
 is updated quarterly and used for health monitoring, funding decisions, and vaccination
 strategies.
 Link to DataSet :
-https://health.data.ny.gov/Health/Rabies-Laboratory-Submissions-Beginning-May-2007/
-q25r-zbis/about_data
+https://health.data.ny.gov/Health/Rabies-Laboratory-Submissions-Beginning-May-2007/q25r-zbis/about_data
